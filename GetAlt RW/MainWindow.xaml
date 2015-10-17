@@ -1,0 +1,19 @@
+﻿<Window x:Class="GetAlt_RW.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="205.505" Width="284.174">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="OpenFile" Content="Open SiteMap" Margin="10,0,10,19" Click="OpenFile_Click" Height="44" VerticalAlignment="Bottom"/>
+        <RichTextBox x:Name="OutputTextBlock" Margin="0,0,0,77">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

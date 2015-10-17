@@ -1,0 +1,31 @@
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\GetAlt RW.exe.config
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\GetAlt RW.exe
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\GetAlt RW.pdb
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\HtmlAgilityPack.dll
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\HtmlAgilityPack.pdb
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\HtmlAgilityPack.xml
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\MainWindow.baml
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\MainWindow.g.cs
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\App.g.cs
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt RW_MarkupCompile.cache
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt RW.g.resources
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt_RW.Properties.Resources.resources
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt RW.csproj.GenerateResource.Cache
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt RW.exe
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt RW.pdb
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\GetAlt RW.exe.config
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt RW.exe
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt RW.pdb
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\GetAlt RW.exe
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\GetAlt RW.pdb
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\HtmlAgilityPack.dll
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\HtmlAgilityPack.pdb
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Release\HtmlAgilityPack.xml
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt RW.csprojResolveAssemblyReference.cache
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\MainWindow.baml
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\MainWindow.g.cs
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\App.g.cs
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt RW_MarkupCompile.cache
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt RW.g.resources
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt_RW.Properties.Resources.resources
+C:\Users\snowacat\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Release\GetAlt RW.csproj.GenerateResource.Cache

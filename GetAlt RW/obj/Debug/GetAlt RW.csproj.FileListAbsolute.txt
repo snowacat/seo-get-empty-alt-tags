@@ -1,0 +1,32 @@
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\bin\Debug\GetAlt RW.exe.config
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\bin\Debug\GetAlt RW.exe
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\bin\Debug\GetAlt RW.pdb
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\obj\Debug\MainWindow.baml
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\obj\Debug\MainWindow.g.cs
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\obj\Debug\App.g.cs
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\obj\Debug\GetAlt RW_MarkupCompile.cache
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\obj\Debug\GetAlt RW.g.resources
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\obj\Debug\GetAlt_RW.Properties.Resources.resources
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\obj\Debug\GetAlt RW.csproj.GenerateResource.Cache
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\obj\Debug\GetAlt RW.exe
+c:\users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\obj\Debug\GetAlt RW.pdb
+C:\Users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\bin\Debug\HtmlAgilityPack.dll
+C:\Users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\bin\Debug\HtmlAgilityPack.xml
+C:\Users\akravchenko\documents\visual studio 2012\Projects\GetAlt RW\GetAlt RW\obj\Debug\GetAlt RW.csprojResolveAssemblyReference.cache
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Debug\GetAlt RW.exe.config
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Debug\GetAlt RW.exe
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Debug\GetAlt RW.pdb
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Debug\GetAlt RW.exe
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Debug\GetAlt RW.pdb
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Debug\HtmlAgilityPack.dll
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\bin\Debug\HtmlAgilityPack.xml
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Debug\GetAlt RW.csprojResolveAssemblyReference.cache
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Debug\MainWindow.baml
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Debug\MainWindow.g.cs
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Debug\App.g.cs
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Debug\GetAlt RW_MarkupCompile.cache
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Debug\GetAlt RW.g.resources
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Debug\GetAlt_RW.Properties.Resources.resources
+C:\Users\akravchenko\Dropbox\Разработка\Мои программы\Get empty Alt tags RW\GetAlt RW\obj\Debug\GetAlt RW.csproj.GenerateResource.Cache
